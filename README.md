@@ -1,4 +1,4 @@
-# Projeto Banco Digital — FIAP 3ESR 2026
+# Projeto Banco Digital — FIAP 3ESPW 2026
 
 ## 1. Identificação
 
