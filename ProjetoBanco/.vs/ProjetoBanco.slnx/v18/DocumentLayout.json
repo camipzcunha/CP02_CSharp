@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\camip\\source\\repos\\ProjetoBanco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B11ABE1-03B2-E12A-866B-B2515C65110D}|ProjetoBanco\\ProjetoBanco.csproj|c:\\users\\camip\\source\\repos\\projetobanco\\projetobanco\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B11ABE1-03B2-E12A-866B-B2515C65110D}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B11ABE1-03B2-E12A-866B-B2515C65110D}|ProjetoBanco\\ProjetoBanco.csproj|c:\\users\\camip\\source\\repos\\projetobanco\\projetobanco\\controllers\\contratacaoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B11ABE1-03B2-E12A-866B-B2515C65110D}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\controllers\\contratacaoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B11ABE1-03B2-E12A-866B-B2515C65110D}|ProjetoBanco\\ProjetoBanco.csproj|c:\\users\\camip\\source\\repos\\projetobanco\\projetobanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B11ABE1-03B2-E12A-866B-B2515C65110D}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B11ABE1-03B2-E12A-866B-B2515C65110D}|ProjetoBanco\\ProjetoBanco.csproj|c:\\users\\camip\\source\\repos\\projetobanco\\projetobanco\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B11ABE1-03B2-E12A-866B-B2515C65110D}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B11ABE1-03B2-E12A-866B-B2515C65110D}|ProjetoBanco\\ProjetoBanco.csproj|c:\\users\\camip\\source\\repos\\projetobanco\\projetobanco\\controllers\\agenciascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B11ABE1-03B2-E12A-866B-B2515C65110D}|ProjetoBanco\\ProjetoBanco.csproj|solutionrelative:projetobanco\\controllers\\agenciascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\camip\\source\\repos\\ProjetoBanco\\ProjetoBanco\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjetoBanco\\appsettings.json",
+              "ToolTip": "C:\\Users\\camip\\source\\repos\\ProjetoBanco\\ProjetoBanco\\appsettings.json",
+              "RelativeToolTip": "ProjetoBanco\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-06T22:47:51.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\camip\\source\\repos\\ProjetoBanco\\ProjetoBanco\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoBanco\\Program.cs",
+              "ToolTip": "C:\\Users\\camip\\source\\repos\\ProjetoBanco\\ProjetoBanco\\Program.cs",
+              "RelativeToolTip": "ProjetoBanco\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T21:24:49.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContratacaosController.cs",
+              "DocumentMoniker": "C:\\Users\\camip\\source\\repos\\ProjetoBanco\\ProjetoBanco\\Controllers\\ContratacaosController.cs",
+              "RelativeDocumentMoniker": "ProjetoBanco\\Controllers\\ContratacaosController.cs",
+              "ToolTip": "C:\\Users\\camip\\source\\repos\\ProjetoBanco\\ProjetoBanco\\Controllers\\ContratacaosController.cs",
+              "RelativeToolTip": "ProjetoBanco\\Controllers\\ContratacaosController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T21:07:21.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgenciasController.cs",
+              "DocumentMoniker": "C:\\Users\\camip\\source\\repos\\ProjetoBanco\\ProjetoBanco\\Controllers\\AgenciasController.cs",
+              "RelativeDocumentMoniker": "ProjetoBanco\\Controllers\\AgenciasController.cs",
+              "ToolTip": "C:\\Users\\camip\\source\\repos\\ProjetoBanco\\ProjetoBanco\\Controllers\\AgenciasController.cs",
+              "RelativeToolTip": "ProjetoBanco\\Controllers\\AgenciasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T21:06:32.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\camip\\source\\repos\\ProjetoBanco\\ProjetoBanco\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "ProjetoBanco\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\camip\\source\\repos\\ProjetoBanco\\ProjetoBanco\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "ProjetoBanco\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T21:04:20.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
