@@ -252,4 +252,4 @@ Os fluxos cobertos são:
 
 As evidências completas com prints do Swagger estão em:
 
-📄 [`docs/Evidências de Testes CP02 - C#.pdf`](ProjetoBanco/ProjetoBanco/Docs/Evidências%20de%20Testes%20CP02%20-%20C%Sharp.pdf)
+📄 [`docs/Evidências de Testes CP02 - C#.pdf`](ProjetoBanco/ProjetoBanco/Docs/Evidências%20de%20Testes%20CP02%20-%20CSharp.pdf)
