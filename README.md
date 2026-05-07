@@ -25,7 +25,7 @@ Por se tratar de uma solução acadêmica com foco nas regras de negócio e na c
 
 ## 4. Diagrama de Classes
 
-![Diagrama de Classes](./Docs/diagrama-classes.png)
+![Diagrama de Classes](ProjetoBanco/ProjetoBanco/Docs/diagrama-classes.png)
 
 ---
 
